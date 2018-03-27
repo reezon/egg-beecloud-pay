@@ -23,12 +23,16 @@
 <!--
 Description here.
 -->
+egg plugin for [beecloud](https://github.com/beecloud/beecloud-nodejs)
 
 ## Install
 
 ```bash
 $ npm i egg-beecloud-pay --save
 ```
+
+## Dependencies
+- [beecloud-node-sdk](https://github.com/beecloud/beecloud-nodejs)
 
 ## Usage
 
