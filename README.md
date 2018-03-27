@@ -45,11 +45,11 @@ exports.beecloudPay = {
 ```js
 // {app_root}/config/config.default.js
 exports.beecloudPay = {
-isSandbox: true,
-appId: '',
-appSecret: '',
-testSecret: '',
-masterSecret: ''
+  isSandbox: true,
+  appId: '',
+  appSecret: '',
+  testSecret: '',
+  masterSecret: ''
 };
 ```
 
