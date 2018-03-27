@@ -12,7 +12,7 @@
 exports.beecloudPay = {
   app: true,
   agent: false,
-  isSandbox: true,
+  isSandbox: false,
   appId: '',
   appSecret: '',
   testSecret: '',

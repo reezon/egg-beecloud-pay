@@ -8,9 +8,12 @@
   "keywords": [
     "egg",
     "eggPlugin",
-    "egg-plugin"
+    "egg-plugin",
+    "beecloud"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "beecloud-node-sdk": "^0.6.4"
+  },
   "devDependencies": {
     "autod": "^3.0.0",
     "autod-egg": "^1.0.0",
